@@ -7,8 +7,8 @@ import java.util.Scanner;
 public class strStr {
 	public static void main(String[] args) {
 	// Declarations and initializations
-	StringBuilder text = new StringBuilder("'Write a function to find the index of the first occurrence of a substring in a string.'");
-	StringBuilder substring = new StringBuilder("occurrence");
+	StringBuilder text = new StringBuilder("'Write a function to find the index of the first occurrence of a substring in a string. Adding remote_change1. Adding Local_change1'");
+	StringBuilder substring = new StringBuilder("change");
 	int indexStrStr = 0;
 	int testWordLength = 0;
 			
